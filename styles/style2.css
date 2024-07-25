@@ -1,0 +1,183 @@
+﻿@import url("/styles/layout.css");
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	background-color: #C2ECB0;
+	background-image: none;
+	background-repeat: repeat;
+	background-attachment: scroll;
+}
+#container {
+	width: 700px;
+	margin: 10px auto;
+	background-color: #C2ECB0;
+	position: relative;
+}
+#masthead {
+	text-align: center;
+	width: 698px;
+	border-top: 1px solid #dcdcdc;
+	border-right: 1px solid #a9a9a9;
+	border-bottom: 1px solid #808080;
+	border-left: 1px solid #a9a9a9;
+	background-color: #ECFAE7;
+}
+#navigation {
+	position: relative;
+	float: left;
+	width: 148px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-top: 1px solid #dcdcdc;
+	border-right: 1px solid #a9a9a9;
+	border-bottom: 1px solid #808080;
+	border-left: 1px solid #a9a9a9;
+	background-color: #ECFAE7;
+}
+#content {
+	margin: 10px;
+	float: left;
+	width: 498px;
+	padding: 10px;
+	border-top: 1px solid #dcdcdc;
+	border-right: 1px solid #a9a9a9;
+	border-bottom: 1px solid #808080;
+	border-left: 1px solid #a9a9a9;
+	background-color: #ECFAE7;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #284759;
+	font-size: small;
+}
+#footer {
+	text-align: center;
+	clear: both;
+	width: 698px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-top: 1px solid #dcdcdc;
+	border-right: 1px solid #a9a9a9;
+	border-bottom: 1px solid #808080;
+	border-left: 1px solid #a9a9a9;
+	background-color: #ECFAE7;
+}
+/* Masthead Styles */
+#masthead h1 {
+	color: #3d6c87;
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 45px;
+	background-color: #ECFAE7;
+}
+#masthead h3 {
+	color: #3d6c87;
+	background-color: #ECFAE7;
+}
+/* Navigation Styles */
+#navigation ul {
+	list-style-type: none;
+	width: 100%;
+	display: block;
+	margin: 0;
+	padding: 0;
+	background-color: #ECFAE7;
+}
+#navigation li {
+	display: block;
+	margin: 0;
+	padding: 0;
+	border: 5px solid #ECFAE7;
+	background-color: #ECFAE7;
+}
+#navigation a {
+	color: #3d6c87;
+	text-decoration: none;
+	display: block;
+	border: 1px solid #fff;
+	background-color: #ECFAE7;
+	font-weight: bold;
+}
+#navigation a:hover {
+	color: #fff;
+	text-decoration: none;
+	border: 1px solid #5f8ea9;
+	background-color: #5f8ea9;
+}
+/* Content Styles */
+h6 {
+	color: #3d6c87;
+}
+h5 {
+	color: #3d6c87;
+}
+h4 {
+	color: #3d6c87;
+}
+h3 {
+	color: #3d6c87;
+}
+h2 {
+	color: #3d6c87;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-large;
+	font-weight: bold;
+	text-align: left;
+}
+#content h1 {
+	color: #3d6c87;
+}
+#content img {
+	padding: 5px;
+	border: 1px solid #808080;
+}
+/* Footer Styles */
+#footer p {
+	color: #808080;
+	margin-top: 5px;
+	background-color: #ECFAE7;
+}
+#footer a {
+	color: #5f8ea9;
+	text-decoration: none;
+	background-color: #ECFAE7;
+	font-weight: bold;
+}
+#footer a:hover {
+	color: #33627d;
+	text-decoration: none;
+}
+a {
+	color: #5f8ea9;
+	text-decoration: underline;
+	background-color: #ECFAE7;
+}
+a:hover {
+	color: #33627d;
+	text-decoration: underline;
+}
+.style_bold {
+	font-weight: bold;
+}
+.style_italic {
+	font-style: italic;
+}
+/*
+     FILE ARCHIVED ON 08:53:35 May 18, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:50:10 Jul 25, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.87
+  exclusion.robots: 0.043
+  exclusion.robots.policy: 0.017
+  esindex: 0.018
+  cdx.remote: 16.411
+  LoadShardBlock: 543.855 (3)
+  PetaboxLoader3.datanode: 107.964 (4)
+  PetaboxLoader3.resolve: 644.35 (3)
+  load_resource: 433.896
+*/
